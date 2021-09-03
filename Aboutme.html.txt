@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>Bio</title>
+</head>
+<body>
+
+<h1><center>About Me</center></h1>
+<p> I am Swastika Ghimire. I am currently studying Bachelors in Electronics Communication and Information Engineering from IOE, ERC, Tribhuvan University.
+I am from Itahari. I am interested in graphics designing and frontend.
+Since i haven't been involved in programming quite often so i want to lean more about programming and graphics design through this WLiT fellowship program. </p>
+
+</body>
+</html>
